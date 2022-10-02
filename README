@@ -19,6 +19,7 @@
 --> https://packagist.org/packages/twilio/sdk <-----> (twilio/sdk)
 ---> Пример:
 Отправить SMS
+//php code 
 <?php
 $sid = "ACXXXXXX"; // Your Account SID from www.twilio.com/console
 $token = "YYYYYY"; // Your Auth Token from www.twilio.com/console

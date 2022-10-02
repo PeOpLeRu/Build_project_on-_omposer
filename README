@@ -20,7 +20,9 @@
 ---> Пример:
 Отправить SMS
 
-```php
+``` php
+//php code
+
 <?php
 $sid = "ACXXXXXX"; // Your Account SID from www.twilio.com/console
 $token = "YYYYYY"; // Your Auth Token from www.twilio.com/console
